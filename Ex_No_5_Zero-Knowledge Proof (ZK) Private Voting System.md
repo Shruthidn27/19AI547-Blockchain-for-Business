@@ -76,4 +76,9 @@ Prevents vote tampering while maintaining voter privacy.
 
 Mimics real-world ZK voting applications in governance and DAOs.
 
+# Output:
+<img width="1918" height="924" alt="image" src="https://github.com/user-attachments/assets/9092fb04-ed36-47ca-aea4-af61878aa247" />
+
+
 # RESULT: 
+Thus,the code is deployed and output is verified.
