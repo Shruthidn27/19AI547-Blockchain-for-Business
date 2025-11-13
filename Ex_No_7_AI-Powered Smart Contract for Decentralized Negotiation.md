@@ -114,6 +114,11 @@ Can be extended to AI oracles for real-time market data.
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
+# Output:
+<img width="1913" height="931" alt="image" src="https://github.com/user-attachments/assets/b2c9b42e-0139-4962-836b-f0fb8455aabe" />
+
+
 # RESULT:
+Thus, the code deployed successfully and output verified.
 
 
